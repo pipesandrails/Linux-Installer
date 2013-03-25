@@ -1,4 +1,4 @@
 Linux-Installer
 ===============
 
-Installer for linux with the packages and files
+This is repo for the Linux installers for the Pipes & Rails Pack.
